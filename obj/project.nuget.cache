@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "LXum09EhcYyYULvHoZK9xPGrGLPnVcDzlfPNykL41F/80z9ItQKUP4tgkgqoA/tARItifLJNrnvPYBuoHUloPg==",
+  "dgSpecHash": "mohlklTsStphwfTpICFidDWTUtDA6yX2i0bjQOSH95LRMrhmHFuhPD7fGzeN/OZ1qfQ70UXuSSuJpTZ8jkY+Ig==",
   "success": true,
-  "projectFilePath": "/Users/zahoorghani/Downloads/test1/dotnetmvcdummy.github.io/dotnetmvcdummy.github.io.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/zahoorghani/Downloads/test1/dotnetmvcdummy.github.io/testingdummy.github.io.csproj",
+  "expectedPackageFiles": [
+    "/Users/zahoorghani/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.13/microsoft.netcore.app.host.osx-x64.5.0.13.nupkg.sha512"
+  ],
   "logs": []
 }

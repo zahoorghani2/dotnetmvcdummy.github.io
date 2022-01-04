@@ -1,7 +1,0 @@
-/Users/zahoorghani/Downloads/test1/dotnetmvcdummy.github.io/bin/Debug/net6.0/publish/dotnetmvcdummy.github.io
-/Users/zahoorghani/Downloads/test1/dotnetmvcdummy.github.io/bin/Debug/net6.0/publish/appsettings.Development.json
-/Users/zahoorghani/Downloads/test1/dotnetmvcdummy.github.io/bin/Debug/net6.0/publish/appsettings.json
-/Users/zahoorghani/Downloads/test1/dotnetmvcdummy.github.io/bin/Debug/net6.0/publish/dotnetmvcdummy.github.io.dll
-/Users/zahoorghani/Downloads/test1/dotnetmvcdummy.github.io/bin/Debug/net6.0/publish/dotnetmvcdummy.github.io.deps.json
-/Users/zahoorghani/Downloads/test1/dotnetmvcdummy.github.io/bin/Debug/net6.0/publish/dotnetmvcdummy.github.io.runtimeconfig.json
-/Users/zahoorghani/Downloads/test1/dotnetmvcdummy.github.io/bin/Debug/net6.0/publish/dotnetmvcdummy.github.io.pdb
